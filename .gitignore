@@ -1,0 +1,8 @@
+# 원본 사진은 커밋하지 않음
+assets/source-photo.jpg
+assets/source-prepped.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
